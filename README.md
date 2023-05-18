@@ -1,5 +1,3 @@
-# **AIDM-7340**
-## **Group Project**
 **Wailing Wall or Tree Hole? An AI Exploration of Mourning Behaviors for the Deceased on Chinese Social Media - Taking Li Wenliang as an Example**
 
 ###  **Content Introduction**
